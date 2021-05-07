@@ -1,3 +1,4 @@
+import './scss/Nav.scss';
 
 const Nav = () => {
     return(  
