@@ -1,0 +1,21 @@
+
+  .main_content_imgName{
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+    flex-flow: column;
+    place-items: center;
+    margin-bottom: 20px;
+  }
+  .main_content_imgName img{
+    max-width: 120px;
+    border-radius: 100px;
+    background-position: center;
+    background-size: cover;
+  }
+  .main_content_imgName p{
+    margin-top: 10px;
+    font-size: 22px;
+    font-weight: 600;
+    width: 100%;
+  }

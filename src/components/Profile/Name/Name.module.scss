@@ -1,0 +1,14 @@
+
+  .main_content_imgName{
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+  }
+  .main_content_imgName img{
+    max-width: 50px;
+  }
+  .main_content_imgName p{
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: 600;
+  }

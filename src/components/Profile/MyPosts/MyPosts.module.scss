@@ -1,11 +1,19 @@
 
+  .main_content_posts_name{
+    font-size: 22px;
+    font-weight: 700;
+  }
 .main_content_posts_new{
   display: flex;
   width: 100%;
+  margin-top: 20px;
+
   textarea{
     width: 50%;
   }
   button{ 
+    margin-left: 20px;
     width: 20%;
   }
+ 
 }

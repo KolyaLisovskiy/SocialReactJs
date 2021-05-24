@@ -2,22 +2,9 @@ main{
     background-color: #D3E3FC;
   grid-area: main;
   width: 100%;
-  padding-top: 20px;
-  padding-left: 20px;
+  padding:20px;
+
   }
   .main_img_top{
     width: 100%;
-  }
-  .main_content_imgName{
-    width: 100%;
-    display: flex;
-    margin-top: 10px;
-  }
-  .main_content_imgName img{
-    max-width: 200px;
-  }
-  .main_content_imgName p{
-    margin-left: 20px;
-    font-size: 22px;
-    font-weight: 600;
   }
