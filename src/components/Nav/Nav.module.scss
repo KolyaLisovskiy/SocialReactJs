@@ -12,13 +12,17 @@ width: max-content;
 box-shadow: 7px 0px 15px -5px rgba(34, 60, 80, 0.16);
 
     }
+    .active{
+      color: green;
+    }
     nav a{
       cursor: pointer;
       font-weight: 700;
       font-size: 18px;
-      color: #318A7B;
+      color: black;
       text-decoration: none;
     }
+  
     nav a:not(:last-child){
       padding-bottom:10px;
     }
