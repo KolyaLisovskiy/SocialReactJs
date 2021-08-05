@@ -2,10 +2,15 @@ nav{
     grid-area: nav;
     display: flex;
     flex-flow: column;
-      background-color: #FFCCBB;
+      background-color: white;
+
+border-right:1px solid #e5e7eb;
       padding:20px 20px;
 width: max-content;
-      
+-webkit-box-shadow: 7px 0px 15px -5px rgba(34, 60, 80, 0.16);
+-moz-box-shadow: 7px 0px 15px -5px rgba(34, 60, 80, 0.16);
+box-shadow: 7px 0px 15px -5px rgba(34, 60, 80, 0.16);
+
     }
     nav a{
       cursor: pointer;

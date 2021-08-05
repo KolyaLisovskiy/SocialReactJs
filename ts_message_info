@@ -1,0 +1,60 @@
+[33mcommit 94f1a12808eab38f5b91b3878d3a62dc5e543c17[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: KolyaLisovskiy <lisovskii.kolya@gmail.com>
+Date:   Thu Aug 5 15:07:07 2021 +0300
+
+    add Proprs
+
+[33mcommit 45e083dadb69b6a07e96e59c736486fc986854d0[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: KolyaLisovskiy <lisovskii.kolya@gmail.com>
+Date:   Mon May 24 12:27:04 2021 +0300
+
+    Изменение по HTML
+
+[33mcommit 23020275610e1129eb9cb10223fb3176b0be0cb2[m
+Author: KolyaLisovskiy <lisovskii.kolya@gmail.com>
+Date:   Fri May 21 12:28:29 2021 +0300
+
+    Test
+
+[33mcommit a949e8fb6ad35d236e91444bd5dfdd40bcc3ff9e[m
+Author: KolyaLisovskiy <lisovskii.kolya@gmail.com>
+Date:   Fri May 7 16:07:29 2021 +0300
+
+    last update
+
+[33mcommit d214ac3b032dd858349e6c85c58cd1851da94565[m
+Author: KolyaLisovskiy <lisovskii.kolya@gmail.com>
+Date:   Fri May 7 15:15:41 2021 +0300
+
+    Module.scss
+
+[33mcommit 2f97ff0be9b0d40bebc293fac2f88b3aae8c4a6c[m
+Merge: bfe864e a324cb7
+Author: KolyaLisovskiy <lisovskii.kolya@gmail.com>
+Date:   Fri May 7 14:33:59 2021 +0300
+
+    Merge branch 'master' of https://github.com/KolyaLisovskiy/SocialReactJs
+
+[33mcommit bfe864efe21d51b4029082ab15f5af3382e6b946[m
+Author: KolyaLisovskiy <lisovskii.kolya@gmail.com>
+Date:   Fri May 7 14:30:41 2021 +0300
+
+    Добавление модуля scss + scss файлы
+
+[33mcommit a324cb774729ce10bd48d0bb0f8b6fef5eeb5b64[m
+Author: KolyaLisovskiy <60322092+KolyaLisovskiy@users.noreply.github.com>
+Date:   Fri May 7 13:41:27 2021 +0300
+
+    Update README.md
+
+[33mcommit b843538b011eb05a4226f5df278debde8e3fcf48[m
+Author: KolyaLisovskiy <lisovskii.kolya@gmail.com>
+Date:   Fri May 7 13:26:20 2021 +0300
+
+    Readme update
+
+[33mcommit 5c89d057ebd4f8ee25e067c3cec14a24d20bbece[m
+Author: KolyaLisovskiy <lisovskii.kolya@gmail.com>
+Date:   Fri May 7 11:38:47 2021 +0300
+
+    Первый коммит
