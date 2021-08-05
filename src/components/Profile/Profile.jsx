@@ -5,7 +5,7 @@ const Profile = () => {
 return(
 <main className={m.main}>
   <div className={m.main_content}> 
-  <MyPosts></MyPosts>
+  <MyPosts/>
   </div>
 </main>
 );
